@@ -1,0 +1,57 @@
+\BOOKMARK [1][-]{section.1}{Emne 1 \205 Stokastisk variabel og fordeling \(Random variable and distributions\) PART 1}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Kumuleret fordelingsfunktion}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Stokastisk variabel}{subsection.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{Statistisk population og stikpr\370ve}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.3}{Fordelings karakteristika}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.4}{Variabilitetsm\345l}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.5}{Fordeling}{section.1}% 7
+\BOOKMARK [3][-]{subsubsection.1.5.1}{Normalfordeling}{subsection.1.5}% 8
+\BOOKMARK [3][-]{subsubsection.1.5.2}{Binomialfordeling}{subsection.1.5}% 9
+\BOOKMARK [3][-]{subsubsection.1.5.3}{Poissonfordeling}{subsection.1.5}% 10
+\BOOKMARK [3][-]{subsubsection.1.5.4}{Student's t\205fordeling}{subsection.1.5}% 11
+\BOOKMARK [3][-]{subsubsection.1.5.5}{2\205fordeling}{subsection.1.5}% 12
+\BOOKMARK [3][-]{subsubsection.1.5.6}{F\205fordeling}{subsection.1.5}% 13
+\BOOKMARK [1][-]{section.2}{Emne 1 \205 Stokastisk variabel og fordeling \(Random variable and distributions\) PART 2}{}% 14
+\BOOKMARK [2][-]{subsection.2.1}{Diskrete}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.2}{Kontinuerte}{section.2}% 16
+\BOOKMARK [1][-]{section.3}{Emne 2 \205 Parameter estimering og confidence intervals}{}% 17
+\BOOKMARK [2][-]{subsection.3.1}{Central Limit Theorem og fordeling af testst\370rrelsen}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.2}{Standard Error for gennemsnittet}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.3}{Eksempel p\345 fordeling af testst\370rrelsen}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.4}{Interval estimation \(Confidence Intervals\) \(Ch.8\)}{section.3}% 21
+\BOOKMARK [1][-]{section.4}{Emne 3 \205 Hypotesetestning}{}% 22
+\BOOKMARK [2][-]{subsection.4.1}{En population}{section.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.1.1}{En\205 og tosidede hypotesetests}{subsection.4.1}% 24
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Type I og II fejl}{subsection.4.1}% 25
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Tosidig hypotese om gennemsnittet}{subsection.4.1}% 26
+\BOOKMARK [3][-]{subsubsection.4.1.4}{Ensidig hypotese om gennemsnittet}{subsection.4.1}% 27
+\BOOKMARK [2][-]{subsection.4.2}{Eksempel med en population}{section.4}% 28
+\BOOKMARK [2][-]{subsection.4.3}{Tosidede hypotesetests}{section.4}% 29
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Ensidede hypotesetests}{subsection.4.3}% 30
+\BOOKMARK [2][-]{subsection.4.4}{To populationer}{section.4}% 31
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Parvise tests}{subsection.4.4}% 32
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Hypoteser om varianser}{subsection.4.4}% 33
+\BOOKMARK [2][-]{subsection.4.5}{Z\205statistik og T\205statistik}{section.4}% 34
+\BOOKMARK [1][-]{section.5}{Emne 4 \205 Regression analyse}{}% 35
+\BOOKMARK [2][-]{subsection.5.1}{Simpel regression}{section.5}% 36
+\BOOKMARK [2][-]{subsection.5.2}{Den line\346re model}{section.5}% 37
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Estimation af 0 og 1}{subsection.5.2}% 38
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Sum af kvadrater i regression}{subsection.5.2}% 39
+\BOOKMARK [3][-]{subsubsection.5.2.3}{Hypotesetest}{subsection.5.2}% 40
+\BOOKMARK [3][-]{subsubsection.5.2.4}{Konfidensintervaller}{subsection.5.2}% 41
+\BOOKMARK [2][-]{subsection.5.3}{Korrelation}{section.5}% 42
+\BOOKMARK [2][-]{subsection.5.4}{Eksempel}{section.5}% 43
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Squared Error}{subsection.5.4}% 44
+\BOOKMARK [3][-]{subsubsection.5.4.2}{R\205Squared \(Coefficient of Determination\)}{subsection.5.4}% 45
+\BOOKMARK [2][-]{subsection.5.5}{Andre regression}{section.5}% 46
+\BOOKMARK [1][-]{section.6}{Emne 5 \205 Analyse af variance}{}% 47
+\BOOKMARK [2][-]{subsection.6.1}{Analysis Of Variance \205 Envejs \(ANOVA 1 \(Ch.13\)\)}{section.6}% 48
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Antagelser}{subsection.6.1}% 49
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Modellen}{subsection.6.1}% 50
+\BOOKMARK [3][-]{subsubsection.6.1.3}{Summer af kvadrater \(Sums of Squares \205 SST\)}{subsection.6.1}% 51
+\BOOKMARK [3][-]{subsubsection.6.1.4}{ANOVA test}{subsection.6.1}% 52
+\BOOKMARK [2][-]{subsection.6.2}{Analysis Of Variance \205 Tovejs \(ANOVA 2 \(Ch.14\)\)}{section.6}% 53
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Antagelser}{subsection.6.2}% 54
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Modellen}{subsection.6.2}% 55
+\BOOKMARK [3][-]{subsubsection.6.2.3}{Summer af kvadrater}{subsection.6.2}% 56
+\BOOKMARK [2][-]{subsection.6.3}{Eksempel}{section.6}% 57
